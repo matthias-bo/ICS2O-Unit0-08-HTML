@@ -1,0 +1,13 @@
+p {
+    color: Slateblue;
+    font-family: fantasy;
+}
+
+.ingredients {
+    list-style-type: circle;
+    border-style:solid;
+}
+table, th, td {
+    border: 1px solid black;
+    margin: 25px 50px 75px 100px;
+}
